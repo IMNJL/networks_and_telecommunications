@@ -106,7 +106,7 @@ int main() {
     Matrix a = {
         {0, 20, INF, 30, INF, INF, INF},
         {20, 0, 30, 20, INF, INF, INF},
-        {INF, INF, 0, INF, 35, INF, INF},
+        {INF, INF, 0, INF, 5, INF, INF},
         {INF, 20, 15, 0, 35, 10, 15},
         {INF, INF, INF, 20, 0, INF, INF},
         {INF, INF, INF, 10, 15, 0, 15},
