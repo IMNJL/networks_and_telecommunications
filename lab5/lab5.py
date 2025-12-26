@@ -1,4 +1,5 @@
 def node_to_coords(node, rows, cols):
+    
     """
     Преобразование номера узла в координаты (row, col, layer)
     """
